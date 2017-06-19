@@ -59,11 +59,19 @@ Simple Binary Search
 
 Interpolation Search
 
+## Sorting
+
+Quicksort
+
+Merge sort
+
+Bubble sort
+
 ## Bitwise operations
 
 Simple bit manipulations
 
-## Trees:
+## Trees
 
 Binary search trees: BSTs
 
@@ -72,14 +80,6 @@ Heap / Priority Queue / Binary Heap
 Binary Tree Traversals preorder, inorder, postorder
 
 Balanced Search trees: Red Black Trees
-
-## Sorting:
-
-Quicksort
-
-Merge sort
-
-Bubble sort
 
 ## Graphs
 
