@@ -1,7 +1,7 @@
 # Practice-Coding-in-Python
 Daily study plan of implementing algorithms in python
 
-# Strings
+## Strings
 
 Word Count
 
@@ -23,47 +23,47 @@ Robin Karp algorithm
 
 Search pattern in text
 
-#Arrays
+## Arrays
 
 Simple array manipulations
 
 Slicing
 
-# Linked Lists
+## Linked Lists
 
 Singly LinkedList
 
 Doubly LinkedList
 
-# Stack
+## Stack
 
 FIFO
 
 Stack as Queue
 
-# Queue
+## Queue
 
 LIFO
 
 Queue as Stack, Circular Buffer
 
-# Hash table
+## Hash table
 
 Hashing with chaining
 
 Open addressing 
 
-# Search
+## Search
 
 Simple Binary Search
 
 Interpolation Search
 
-# Bitwise operations
+## Bitwise operations
 
 Simple bit manipulations
 
-# Trees:
+## Trees:
 
 Binary search trees: BSTs
 
@@ -73,7 +73,7 @@ Binary Tree Traversals preorder, inorder, postorder
 
 Balanced Search trees: Red Black Trees
 
-# Sorting:
+## Sorting:
 
 Quicksort
 
@@ -81,7 +81,7 @@ Merge sort
 
 Bubble sort
 
-# Graphs
+## Graphs
 
 Simple Graph
 
@@ -89,35 +89,35 @@ BFS
 
 DFS
 
-# Dynamic Programming
+## Dynamic Programming
 
 Maximum increasing subsequence
 
-# Set
+## Set
 
 Bloom Filter
 
-# Trie
+## Trie
 
 Simple Trie
 
-# Treap
+## Treap
 
 Simple Treap
 
-# Cache
+## Cache
 
 LRU cache
 
-# Concurrency
+## Concurrency
 
 Threads in Python
 
-# Garbage Collection
+## Garbage Collection
 
 Garbage collection in Python
 
-# Machine Learning
+## Machine Learning
 
 Linear Regression
 
